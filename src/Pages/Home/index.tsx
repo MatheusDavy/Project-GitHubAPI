@@ -1,9 +1,6 @@
-import { useEffect, useState } from "react"
-import { personDatas } from "../../assets/data/person"
 import { CardUsersLooping } from "./Components/CardUsers"
 import { HomeBannerContainer, HomeContainer, TittleBannerContainer } from "./styles"
 import {BsLink45Deg} from 'react-icons/bs'
-import './animations'
 
 
 export function Home() {
