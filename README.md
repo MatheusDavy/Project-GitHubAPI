@@ -13,5 +13,5 @@ npm install
 npm run dev
 ```
 
-## :dart: Status do projeto
+## :dart: Status
 * Incomplete - It can receive futures updates.
